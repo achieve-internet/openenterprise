@@ -1,5 +1,4 @@
 <?php
-// $Id$
 // 
 // Define the default WYSIWYG editor
 define('OPENENTERPRISE_EDITOR', 'ckeditor');
